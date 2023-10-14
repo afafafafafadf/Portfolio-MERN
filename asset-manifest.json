@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio-MERN/static/css/main.67d71bf0.css",
+    "main.js": "/Portfolio-MERN/static/js/main.b503326d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-MERN/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Portfolio-MERN/index.html",
+    "main.67d71bf0.css.map": "/Portfolio-MERN/static/css/main.67d71bf0.css.map",
+    "main.b503326d.js.map": "/Portfolio-MERN/static/js/main.b503326d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-MERN/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67d71bf0.css",
+    "static/js/main.b503326d.js"
+  ]
+}
